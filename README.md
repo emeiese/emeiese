@@ -45,8 +45,8 @@ My pronouns are *she/her*.
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 
-![Emeiese's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeiese&show_icons=true&theme=tokyonight)
+![Emeiese's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeiese&show_icons=true&theme=buefy)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emeiese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://github.com/emeiese/emeiese/blob/main/github-metrics.svg)
