@@ -1,4 +1,5 @@
-### Helloooo, I'm Ignacia 🐋
+# Helloooo, I'm Ignacia 🐋
+### Never-ending learner & whale lover
 
 I'm a Mathematical & Computational Engineer 🤓 but I've got a bunch of other hobbies such as paint with watercolors 🖌️, learn how to play new instruments 🎵 and use a lot of emojis 🐋. I love to learn new things in general. At the moment I'm learning how to play piano (Jazz & Classic Styles) but I've got a Wish List of things I'd like to learn in the future. 
 
@@ -45,8 +46,11 @@ My pronouns are *she/her*.
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emeiese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+  
 ![Emeiese's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeiese&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emeiese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Metrics](https://metrics.lecoq.io/emeiese?template=classic&base.community=0&base.metadata=0&config.timezone=America%2FSantiago)
+</div>
