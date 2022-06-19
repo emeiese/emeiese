@@ -1,7 +1,10 @@
 # Helloooo, I'm Ignacia 🐋
 ### Never-ending learner & whale lover
 
-I'm a Mathematical & Computational Engineer 🤓 but I've got a bunch of other hobbies such as paint with watercolors 🖌️, learn how to play new instruments 🎵 and use a lot of emojis 🐋. I love to learn new things in general. At the moment I'm learning how to play piano but I've got a Wish List of things I'd like to learn in the future. 
+- Mathematical & Computational Engineer 🤓
+- Painting 🖌️
+- Music 🎵 
+- Emojis 🐋
 
 My pronouns are *she/her*.
 
