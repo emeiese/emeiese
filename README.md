@@ -45,7 +45,6 @@ My pronouns are *she/her*.
 
 ## What I'm currently learning how to use 😄
 
-[]: # (https://img.shields.io/badge/badgeText-hexColor?style=for-the-badge&logo=LogoSlugSimpleIcon&logoColor=logoColor)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
