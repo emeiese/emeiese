@@ -50,6 +50,4 @@ My pronouns are *she/her*.
 ![Emeiese's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeiese&show_icons=true&theme=buefy)
 
 <img src="./github-metrics.svg">
-
-![Metrics](https://metrics.lecoq.io/emeiese?template=classic&base.community=0&base.metadata=0&config.timezone=America%2FSantiago)
 </div>
