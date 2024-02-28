@@ -44,10 +44,5 @@ My pronouns are *she/her*.
 
 
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emeiese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-  
-![Emeiese's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeiese&show_icons=true&theme=buefy)
-
-<img src="./github-metrics.svg">
+<img src="./github-metrics.svg" href="">
 </div>
