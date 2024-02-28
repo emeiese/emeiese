@@ -1,20 +1,13 @@
 # Helloooo, I'm Ignacia 🐋
-### Never-ending learner & whale lover
 
-- Mathematical & Computational Engineer 🤓
-- Painting 🖌️
-- Music 🎵 
-- Emojis 🐋
+About me:
+- I'm a Mathematical & Computational Engineer 🤓
+- I love to learn new things 🧠️
+- I love to use Emojis 🥑️
+- I hate JIRA
 
 My pronouns are *she/her*.
-
-## How to reach me
-<a href="https://www.linkedin.com/in/mignaciasanchezj/">
-  <img alt="Ignacia's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/>
-
+Reach me on [LinkedIn](https://www.linkedin.com/in/mignaciasanchezj/) 😉️
 
 ## What I usually use 🐋️
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -30,6 +23,7 @@ My pronouns are *she/her*.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## What I'm currently learning how to use 😄
 
@@ -38,7 +32,6 @@ My pronouns are *she/her*.
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
