@@ -3,8 +3,7 @@
 About me:
 - I'm a Mathematical & Computational Engineer 🤓
 - I love to learn new things 🧠️
-- I love to use Emojis 🥑️
-- I hate JIRA
+- I love to use Emojis 🥑️ (before ChatGPT did)
 
 My pronouns are *she/her*.
 Reach me on [LinkedIn](https://www.linkedin.com/in/mignaciasanchezj/) 😉️
